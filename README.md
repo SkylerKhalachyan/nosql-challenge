@@ -10,8 +10,11 @@ An evaluation of ratings for establishments across the United Kingdom for a maga
 * PyMongo
 
 ```
+
 pip install pymongo
+
 ```
+
 ### Installation
 1. Install Mongo
     * For Mac users:
