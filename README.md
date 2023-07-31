@@ -10,6 +10,9 @@ An evaluation of ratings for establishments across the United Kingdom for a maga
 * Pandas
 * Matplotlib
 
+### User Set Up 
+#
+To create a copy ready to perform on your local computer follow these steps.
 ### Prerequisites
 
 * PyMongo
@@ -30,6 +33,15 @@ pip install pymongo
 ### Usage
 
 ### Acknowlegements
-
+#
+* Author: [Skyler Khalachyan](https://github.com/SkylerKhalachyan)
+* Contributors:
+     - Study Groups: Collaborated with the Instructor and multiple students during class time to better understand the project.
+     - Students: 
+     - Program: UC Berkeley Extension Data Analytics Bootcamp 
+     - Starter Code:  Some starter code was provided
+     - TA:
+     - Tutor: 
+     - Instructor: Ahmad Sweed
 ### Resources 
 * [PyMongo and MongoDB Tutorial](https://api.mongodb.com/python/3.3.1/tutorial.html)
