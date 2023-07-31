@@ -4,7 +4,7 @@
 ### Overview of Project
 An evaluation of ratings for establishments across the United Kingdom for a magazine, Eat, Safe, Love. This evaluation will assist the journalists and food critics decide where to focus future articles. 
 ### Built Utilizing
-* PyMongo (https://pypi.org/project/pymongo/)
+* PyMongo 
 * MongoDB
 * Python
 * Pandas
