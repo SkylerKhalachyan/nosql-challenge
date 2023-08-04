@@ -34,14 +34,12 @@ pip install pymongo
 
 ### Acknowlegements
 #
-* Author: [Skyler Khalachyan](https://github.com/SkylerKhalachyan)
+* Author: Skyler Khalachyan
 * Contributors:
      - Study Groups: Collaborated with the Instructor and multiple students during class time to better understand the project.
-     - Students: 
      - Program: UC Berkeley Extension Data Analytics Bootcamp 
      - Starter Code:  Some starter code was provided
-     - TA:
-     - Tutor: 
+     - Tutor: Asiha Braxton-Garvin
      - Instructor: Ahmad Sweed
 ### Resources 
 * [PyMongo and MongoDB Tutorial](https://api.mongodb.com/python/3.3.1/tutorial.html)
